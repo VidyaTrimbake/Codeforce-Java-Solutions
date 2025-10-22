@@ -1,2 +1,11 @@
-# Codeforce-Java-Solutions
-This repository contains my personal solutions to various problems from Codeforces, implemented in **Java 21**. It serves as a comprehensive collection of my competitive programming journey, tracking my progress and approach to different algorithms and data structures.
+# Codeforces Java Solutions
+
+This repository includes my personal solutions to various Codeforces problems implemented in **Java 21**.
+
+## 🚀 Topics Covered
+- Competitive programming logic
+- Data structures and algorithms
+- Input/output handling for contests
+
+🧩 Each solution file corresponds to a specific Codeforces problem.
+
